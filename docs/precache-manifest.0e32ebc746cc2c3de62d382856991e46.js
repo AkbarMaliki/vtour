@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/app~d0ae3f07.4a50b252.css"
   },
   {
-    "revision": "934e4848b255311a364c",
+    "revision": "0e0e7a7f0d5acd274cc6",
     "url": "css/app~e0b8e49b.c5ebbf97.css"
   },
   {
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/chunk-vendors~f4cc19b7.bd659205.css"
   },
   {
-    "revision": "4fac459411c1f4d8c268",
-    "url": "css/page-estate-jasa~21833f8f.1ec8e9b4.css"
+    "revision": "dce75ac2de61e1a77751",
+    "url": "css/page-admin-covid-index~page-admin-fasilitas-index~page-admin-fasilitas-listfasilitas~page-admin-floo~dccd6b5c.5b557390.css"
   },
   {
-    "revision": "edb4dbaa29a48aff0725",
-    "url": "css/page-gis-admin-covid-index~page-gis-admin-kategori-addMarker~page-gis-admin-kategori-event-event1~pa~076b2dd5.5b557390.css"
+    "revision": "0ff9aae06a556dcd1192",
+    "url": "css/page-estate-jasa~21833f8f.1ec8e9b4.css"
   },
   {
     "revision": "274d0b6f81820c3abf66",
@@ -84,7 +84,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "css/page-gis-map-index~31ecd969.67af4f4f.css"
   },
   {
-    "revision": "4de996e29f2b534cdaf2",
+    "revision": "f1ecc0e4f405b17055d7",
     "url": "css/page-index~21833f8f.45be1c41.css"
   },
   {
@@ -132,7 +132,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "img/typicons.cae8fddf.svg"
   },
   {
-    "revision": "8aa123fd36a2506cd9b6b605fb4f392f",
+    "revision": "b42e471bfe99256942da72f5de12e134",
     "url": "index.html"
   },
   {
@@ -140,8 +140,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/app~d0ae3f07.84e17ee5.js"
   },
   {
-    "revision": "934e4848b255311a364c",
-    "url": "js/app~e0b8e49b.f419f7c7.js"
+    "revision": "0e0e7a7f0d5acd274cc6",
+    "url": "js/app~e0b8e49b.72bc10aa.js"
   },
   {
     "revision": "0174fc3bd88a2ed7956c",
@@ -244,8 +244,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors~73081ec5.39d1d0d4.js"
   },
   {
-    "revision": "f6d557a72ea6773c8518",
-    "url": "js/chunk-vendors~754b922b.12c8ce04.js"
+    "revision": "0fb748162b3121173fe7",
+    "url": "js/chunk-vendors~754b922b.60f8a794.js"
   },
   {
     "revision": "98b5be89f9dd619fa6a6",
@@ -316,6 +316,98 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/chunk-vendors~fdc6512a.80e62795.js"
   },
   {
+    "revision": "a7dfc04136ca87dc3b7b",
+    "url": "js/page-admin-covid-index~24cf5a57.d0e31c36.js"
+  },
+  {
+    "revision": "dce75ac2de61e1a77751",
+    "url": "js/page-admin-covid-index~page-admin-fasilitas-index~page-admin-fasilitas-listfasilitas~page-admin-floo~dccd6b5c.75f48c00.js"
+  },
+  {
+    "revision": "c9fffc41066f16e7c32d",
+    "url": "js/page-admin-create~22499774.51f2c38a.js"
+  },
+  {
+    "revision": "bea48fd3e11bee15c97a",
+    "url": "js/page-admin-create~page-gis-admin-create~page-zadmin-create~9b19f94b.f0d04142.js"
+  },
+  {
+    "revision": "8d34657976790fc3b51b",
+    "url": "js/page-admin-fasilitas-index~309e9856.c5c2792f.js"
+  },
+  {
+    "revision": "420621d59dc032a658f5",
+    "url": "js/page-admin-fasilitas-listfasilitas~31ecd969.84ac387d.js"
+  },
+  {
+    "revision": "2207e54e3dd1e4616550",
+    "url": "js/page-admin-floorplan-index~4e8743b5.282e5c24.js"
+  },
+  {
+    "revision": "ac3b374266038678930a",
+    "url": "js/page-admin-index~6773c5d6.51d0e36d.js"
+  },
+  {
+    "revision": "900caac1f0a1787eaec1",
+    "url": "js/page-admin-kategori-360data-edit~31ecd969.00e7b507.js"
+  },
+  {
+    "revision": "b4ffc413d6f23be60e68",
+    "url": "js/page-admin-kategori-360data-getHotspot~31ecd969.64938276.js"
+  },
+  {
+    "revision": "802bcc5302d205f0556d",
+    "url": "js/page-admin-kategori-360data-getPoint~9d71f1fd.516a1db7.js"
+  },
+  {
+    "revision": "32b891c05270c0c1e3b6",
+    "url": "js/page-admin-kategori-360data-hotspot~81c81122.02420ae2.js"
+  },
+  {
+    "revision": "7c0e676ff43ef7ad236f",
+    "url": "js/page-admin-kategori-360data-index~e5e62cb9.32c5a4bc.js"
+  },
+  {
+    "revision": "9748a736cadde5bcc84a",
+    "url": "js/page-admin-kategori-addMarker~31ecd969.9f5b01de.js"
+  },
+  {
+    "revision": "74d8da5b6408f87e8d1c",
+    "url": "js/page-admin-kategori-event-event1~7cb52f04.1994d859.js"
+  },
+  {
+    "revision": "76d1fa004c54ff298ea6",
+    "url": "js/page-admin-kategori-floorplan2~31ecd969.12f8d586.js"
+  },
+  {
+    "revision": "95b9d651b2564bdf80ec",
+    "url": "js/page-admin-kategori-floorplan~31ecd969.8b1eb6da.js"
+  },
+  {
+    "revision": "7daf67134c5c53689b5a",
+    "url": "js/page-admin-kategori-geojson~b13315a6.52ca6270.js"
+  },
+  {
+    "revision": "da53ab307fe47a7071dc",
+    "url": "js/page-admin-kategori-index~5b89af37.a871b290.js"
+  },
+  {
+    "revision": "a42e4de416bcf86f4482",
+    "url": "js/page-admin-kategori-room-galery~b208d9b1.9b59018a.js"
+  },
+  {
+    "revision": "e3792364ef7ce3e407e9",
+    "url": "js/page-admin-kategori-room-index~a3ecf514.0934a915.js"
+  },
+  {
+    "revision": "f6ee851cb056564e70e8",
+    "url": "js/page-admin-login~03aa6052.2aba08c7.js"
+  },
+  {
+    "revision": "5da4937888c437892ab1",
+    "url": "js/page-admin-wilayah~6d3452de.4e9d1405.js"
+  },
+  {
     "revision": "e2fbb82339249ef9c5f1",
     "url": "js/page-estate-about~bd33c4cd.6f989742.js"
   },
@@ -332,8 +424,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-estate-galery~67795c85.928cc5ad.js"
   },
   {
-    "revision": "4fac459411c1f4d8c268",
-    "url": "js/page-estate-jasa~21833f8f.dbed91ba.js"
+    "revision": "0ff9aae06a556dcd1192",
+    "url": "js/page-estate-jasa~21833f8f.2647845e.js"
   },
   {
     "revision": "6b79126cb276ff2d6917",
@@ -356,16 +448,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-gis-admin-covid-index~3d8f24c8.73bbd42b.js"
   },
   {
-    "revision": "edb4dbaa29a48aff0725",
-    "url": "js/page-gis-admin-covid-index~page-gis-admin-kategori-addMarker~page-gis-admin-kategori-event-event1~pa~076b2dd5.0b1f673c.js"
-  },
-  {
     "revision": "0907bad524cb9538092a",
     "url": "js/page-gis-admin-create~303a3955.91c0c586.js"
-  },
-  {
-    "revision": "81a0b7d90ca97314c16c",
-    "url": "js/page-gis-admin-create~page-zadmin-create~9b19f94b.f37c083f.js"
   },
   {
     "revision": "8e48209f36ed7009f718",
@@ -420,8 +504,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "js/page-gis-test~31ecd969.f7e6a1a1.js"
   },
   {
-    "revision": "4de996e29f2b534cdaf2",
-    "url": "js/page-index~21833f8f.4f220c7d.js"
+    "revision": "f1ecc0e4f405b17055d7",
+    "url": "js/page-index~21833f8f.1969458b.js"
   },
   {
     "revision": "683115ad1f1c33468605",
